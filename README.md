@@ -35,7 +35,7 @@ Este projeto foi desenvolvido como parte de um desafio proposto pela página Cod
 1. Clone o repositório:
 
 ~~~git
-git clone https://github.com/salomao27/
+git clone https://github.com/salomao27/https://github.com/salomao27/Art.git
 ~~~
 2. Instale as dependências:
 
